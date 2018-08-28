@@ -2,4 +2,6 @@
 
 def Shoe
   
-  attr_accessor :brand,:size
+  attr_accessor :brand,:size,:color
+  
+end
